@@ -17,7 +17,7 @@ This dashboard was developed during my internship at **Globus IT / Frazen Techno
   - Resource capacity
   - File uploads and metrics
 - 📁 File management with metadata parsing
-- 📊 Visual dashboards using `Chart.js`, `D3.js`
+- 📊 Visual dashboards using `Chart.js`, `Plot.js`
 - 💻 Fully responsive UI using HTML, CSS, and JavaScript
 
 ---
