@@ -46,7 +46,6 @@ This dashboard was developed during my internship at **Globus IT / Frazen Techno
 As per internship guidelines, the source code and internal architecture cannot be shared publicly. However, few **Screenshots from my work** is available here:
 
 <img width="791" height="437" alt="Screenshot 2025-07-22 045544" src="https://github.com/user-attachments/assets/b78adfe1-7cc9-44e6-b331-f0876130eadf" />
-<img width="1038" height="495" alt="Screenshot 2025-07-22 045455" src="https://github.com/user-attachments/assets/92bdbfba-0d2c-423e-a202-f99c7d085fc3" />
 <img width="868" height="452" alt="Screenshot 2025-07-22 045520" src="https://github.com/user-attachments/assets/f0663265-a90a-465b-a02d-86a31a97220d" />
 <img width="824" height="431" alt="Screenshot 2025-07-22 045602" src="https://github.com/user-attachments/assets/1a041c56-f51e-4cda-8dca-731e3d790a81" />
 
