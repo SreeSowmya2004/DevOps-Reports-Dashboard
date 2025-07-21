@@ -48,7 +48,7 @@ As per internship guidelines, the source code and internal architecture cannot b
 
 ---
 
-## 🙋‍♀️ Author
+## 🙋‍♀️ Let's Connect
 
 **C. Sree Sowmya**  
 📧 sreesowmya2k4@gmail.com  
