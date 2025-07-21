@@ -28,7 +28,7 @@ This dashboard was developed during my internship at **Globus IT / Frazen Techno
 - Chart.js, Plot.js
 - npm, Node.js, Express.js
 - Postman API
-- VS code
+- VS code (tools)
 
 ---
 
