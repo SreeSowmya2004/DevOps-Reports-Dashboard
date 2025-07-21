@@ -25,9 +25,10 @@ This dashboard was developed during my internship at **Globus IT / Frazen Techno
 ## 🛠️ Technologies Used
 
 - JavaScript, HTML, CSS
-- Chart.js, D3.js
-- Node.js, Express.js
-- AWS (Cloud deployment)
+- Chart.js, Plot.js
+- npm, Node.js, Express.js
+- Postman API
+- VS code
 
 ---
 
